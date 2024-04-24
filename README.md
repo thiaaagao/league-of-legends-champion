@@ -37,6 +37,10 @@ Enfrentei desafios maiores com a utilizaçã de Javascript para manipulação do
 
 **Front-end:** HTML5, CSS3, JavaScript
 
+## Deploy
+
+- Deploy do Projeto ↓
+https://thiaaagao.github.io/league-of-legends-champion/
 
 
 
