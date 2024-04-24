@@ -40,6 +40,7 @@ Enfrentei desafios maiores com a utilizaçã de Javascript para manipulação do
 ## Deploy
 
 - Deploy do Projeto ↓
+
 https://thiaaagao.github.io/league-of-legends-champion/
 
 
